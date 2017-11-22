@@ -21,8 +21,8 @@ I'd like to have a professional web address, either a .com or .org -- you decide
 
 # This project includes:
 
-A project brief explaining the client's needs, including an explanation of the technologies chosen.
-A prototype folder with the HTML and CSS source code + images.
+- A project brief explaining the client's needs, including an explanation of the technologies chosen.
+- A prototype folder with the HTML and CSS source code + images.
 
 
 # By Stephanie Zerpa Aldrey.
